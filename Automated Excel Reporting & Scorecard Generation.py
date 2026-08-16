@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 12 10:24:15 2022
-@author: SEN2613
+@author: 
 
 PORTFOLIO VERSION
 -----------------
